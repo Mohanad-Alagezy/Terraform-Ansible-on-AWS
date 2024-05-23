@@ -1,4 +1,5 @@
 # Deploying High Available AWS Infrastructure with Terraform and Ansible
+![Screenshot 2024-05-23 003055](https://github.com/Mohanad-Alagezy/Terraform-Ansible-on-AWS/assets/161209920/0fb3129c-1333-4b78-af10-461ef325e62b)
 
 ## Project Overview
 
